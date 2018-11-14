@@ -1,0 +1,2 @@
+# PythonProject
+Snippets of Python
